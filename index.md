@@ -4,5 +4,10 @@
 
 ![Image of justicetocat](https://octodex.github.com/images/justicetocat.jpg)
 
+
+``` python
+var = "Hello World!"
+```
+
 Testing header sizes and looks
 added an image
